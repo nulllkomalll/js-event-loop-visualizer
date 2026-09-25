@@ -2,14 +2,7 @@
 
 <br />
 
-```
-   ██╗███████╗    ██╗   ██╗██╗███████╗██╗   ██╗ █████╗ ██╗     ██╗███████╗███████╗██████╗
-   ██║██╔════╝    ██║   ██║██║██╔════╝██║   ██║██╔══██╗██║     ██║╚══███╔╝██╔════╝██╔══██╗
-   ██║███████╗    ██║   ██║██║███████╗██║   ██║███████║██║     ██║  ███╔╝ █████╗  ██████╔╝
-██ ██║╚════██║    ╚██╗ ██╔╝██║╚════██║██║   ██║██╔══██║██║     ██║ ███╔╝  ██╔══╝  ██╔══██╗
-╚█████║███████║    ╚████╔╝ ██║███████║╚██████╔╝██║  ██║███████╗██║███████╗███████╗██║  ██║
- ╚════╝╚══════╝     ╚═══╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+
 
 **A production-grade, desktop-only JavaScript Event Loop Debugger**
 
@@ -17,13 +10,6 @@ Visualize the Call Stack, Execution Context, Web APIs, Task Queue, Microtask Que
 and Event Loop — all in real time, step by step.
 
 <br />
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-js--visualizer.gouranga.eu.org-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://js-visualizer.gouranga.eu.org)
-[![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](./LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![GSAP](https://img.shields.io/badge/GSAP-3-88ce02?style=for-the-badge&logo=greensock&logoColor=black)](https://greensock.com/gsap/)
 
 <img src='./src/assets/preview.png'></img>
 
@@ -187,20 +173,6 @@ Please read [docs/CONTRIBUTING.md](./docs/CONTRIBUTING.md) before opening a PR.
 ## License
 
 Distributed under the **MIT License**. See [LICENSE](./LICENSE) for the full text.
-
----
-
-## Author
-
-<div align="center">
-
-**Gourang Das Samrat**
-
-[![Email](https://img.shields.io/badge/Email-gouranga.samrat%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gouranga.samrat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-GourangDasSamrat-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GourangDasSamrat/js-visualizer)
-[![Live](https://img.shields.io/badge/Live-js--visualizer.gouranga.eu.org-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://js-visualizer.gouranga.eu.org)
-
-</div>
 
 ---
 
